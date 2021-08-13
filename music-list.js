@@ -42,8 +42,8 @@ let allMusic = [{
     {
         name: "Yun Hi Chala Chal",
         artist: "Kailash Kher",
-        img: "music-6",
-        src: "music-6"
+        img: "music-6.jpg",
+        src: "music-6.mp3"
     },
     // like this paste it and remember to give comma after ending of this bracket }
     // {
